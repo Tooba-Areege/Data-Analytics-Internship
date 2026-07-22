@@ -75,6 +75,6 @@ Task_03_Descriptive_Statistics/
 ├── task_03_descriptive_statistics.py
 └── cleaned_titanic.csv
 
-## Conclusion
+ Conclusion
 Basic descriptive statistics were successfully calculated on the cleaned Titanic dataset. The analysis provided insights into the central tendency, range, and number of records for numerical variables, along with frequency counts for categorical variables.
 This task strengthened my understanding of how descriptive statistics can be used to summarize and understand data before performing deeper analysis.
