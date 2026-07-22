@@ -52,13 +52,13 @@ Final Quality Check
      ↓
 Export Cleaned Dataset
 
-## Task_02_Data_Cleaning/
+ Task_02_Data_Cleaning/
 │
 ├── README.md
 ├── task_02_data_cleaning.py
 ├── Titanic-Dataset.csv
 └── cleaned_titanic.csv
 
-## Conclusion
+ Conclusion
 The Titanic dataset was successfully cleaned by handling missing values, removing duplicate records, and correcting data types. The cleaned dataset is now more consistent and ready for further data analysis, visualization, and machine learning tasks.
 This task provided practical experience with the essential data preprocessing steps used in the data analytics workflow.
