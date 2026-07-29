@@ -57,7 +57,7 @@ The dashboard includes:
 Task_08_Mini_Dashboard/
 │
 ├── README.md
-├── task_08_dashboard.py
+├── task_08_dashboard.ipynb
 ├── cleaned_titanic.csv
 └── dashboard.png
 ```
