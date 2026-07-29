@@ -5,7 +5,7 @@
 **Task:** Task 10 – Mini Project Part 2
 
 **Name:** Tooba Areege
-**Education:** 2nd Year Statistic Student at Shaheed Benazir Bhutto University  
+**Education:** 2nd Year Statistics Student at Shaheed Benazir Bhutto University  
 **City:** Mehrabpur, Sindh, Pakistan
 
 ---
