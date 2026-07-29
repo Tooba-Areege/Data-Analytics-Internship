@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Internship Information
 
-**Internship:** CoreTecL data analysis Internship  
+**Internship:** CoreTech data analysis Internship  
 **Task:** Task 07 – Trend / Comparison Analysis  
 
 **Name:** Tooba Areege
