@@ -34,8 +34,7 @@ The insights report is based on the Superstore mini project and covers sales, pr
 - Product category performance
 - Regional sales and profit
 - Discount and profit relationship
-- Overall business performance
-- Data-driven business recommendations
+  
 
 ---
 
