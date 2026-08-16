@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Intern Information
 
-**Internship:** CoreTech Data Analysis intinship  
+**Internship:** CoreTech Data Analysis internship  
 **Name:** Tooba Areege  
 **Education:** 2nd Year Statistic Student at Shaheed Benazir Bhutto University   
 ---
